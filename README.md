@@ -59,7 +59,7 @@ flutter-app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/valeraruggierotesisucv/flutter-app.git
+   git clone https://github.com/ruggieroDaniela/eventify-flutter.git
    cd flutter-app
    ```
 
